@@ -35,7 +35,7 @@ You need the following stuff installed on your machine:
 ###1. Bootstrap a new Desktop App!
 
 ```
-brunch new https://github.com/Anonyfox/node-webkit-hipster-seed MyApp
+brunch new https://github.com/atchariya/node-webkit-hipster-seed MyApp
 ```
 
 *This may take a few minutes depending on your hardware and internet connection, since this git repo will be cloned, a bunch of npm modules will be installed, including the somewhat big [node-webkit](https://github.com/rogerwang/node-webkit), and several bower modules afterwards.*
